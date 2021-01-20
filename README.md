@@ -2,7 +2,9 @@
 
 Enthusiastic about everything that involves technology, especially with regard to programming. I am a full stack developer with a focus on Front-end. Seeking to specialize in the best stacks on the market, without forgetting to apply good practices. Bachelor of Law training, Dev de Coração!
 
+<!--
 #JavaScript | #CSS | #React | #React Native | # Node.JS | #Express | #Full Stack
+-->
 
 <!--
 **uezm/uezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
